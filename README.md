@@ -26,12 +26,12 @@ All data is stored temporarily using **ArrayList** (Java Collection).
 
 ##  Features
 
-✔️ Add a new student  
-✔️ View all students  
-✔️ Delete a student by ID  
-✔️ Menu-driven interface  
-✔️ Easy to understand code  
-✔️ Beginner friendly  
+- Add a new student  
+- View all students  
+- Delete a student by ID  
+- Menu-driven interface  
+- Easy to understand code  
+- Beginner friendly  
 
 ---
 
@@ -39,15 +39,15 @@ All data is stored temporarily using **ArrayList** (Java Collection).
 
 This project helps you learn:
 
-- 🔹 Core Java
-- 🔹 Object-Oriented Programming (OOP)
+-  Core Java
+-  Object-Oriented Programming (OOP)
   - Class & Object
   - Encapsulation
   - Constructor
-- 🔹 Java Collection Framework
+-  Java Collection Framework
   - ArrayList
-- 🔹 Scanner class for input
-- 🔹 Console-based application design
+-  Scanner class for input
+-  Console-based application design
 
 ---
 
