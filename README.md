@@ -1,4 +1,4 @@
-#Student Management System (Core Java)
+**Student Management System** 
 
 This is a simple **console-based Student Management System** created using **Core Java**.
 It is suitable for beginners to understand **OOP concepts** and **Java Collections**.
