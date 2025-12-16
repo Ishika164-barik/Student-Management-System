@@ -1,3 +1,6 @@
+# Hi, I'm Ishika! 👋
+
+
 #  Student Management System (Core Java)
 
  Welcome to the **Student Management System** project!  
