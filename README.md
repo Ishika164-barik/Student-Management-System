@@ -61,7 +61,5 @@ This project helps you learn:
 |  IDE | IntelliJ IDEA |
 |  Version Control | GitHub |
 
----
 
-## 📂 Project Structure
 
