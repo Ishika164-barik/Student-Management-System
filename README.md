@@ -41,11 +41,11 @@ This project helps you learn:
 
 -  Core Java
 -  Object-Oriented Programming (OOP)
-  - Class & Object
-  - Encapsulation
-  - Constructor
+  -  •Class & Object
+  -  •Encapsulation
+  -  •Constructor
 -  Java Collection Framework
-  - ArrayList
+  -  •ArrayList
 -  Scanner class for input
 -  Console-based application design
 
