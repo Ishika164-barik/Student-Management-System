@@ -43,8 +43,8 @@ This project helps you learn:
 -  Core Java
 -  Object-Oriented Programming (OOP)
    - Class & Object
-   , Encapsulation
-   , Constructor
+   - Encapsulation
+   - Constructor
 -  Java Collection Framework
    - ArrayList
 -  Scanner class for input
