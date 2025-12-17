@@ -1,5 +1,3 @@
-# Hi, I'm Ishika! 👋
-
 
 #  Student Management System (Core Java)
 
@@ -64,13 +62,7 @@ This project helps you learn:
 |  IDE | IntelliJ IDEA |
 |  Version Control | GitHub |
 
-## Project Structure
 
-├── Student.java
-
-├── StudentManager.java
-
-└──  Main.java
 
 
 
