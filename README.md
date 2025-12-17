@@ -64,5 +64,11 @@ This project helps you learn:
 |  IDE | IntelliJ IDEA |
 |  Version Control | GitHub |
 
+## Project Structure
+
+├── Student.java
+├── StudentManager.java
+├── Main.java
+└── README.md
 
 
