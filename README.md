@@ -70,7 +70,7 @@ This project helps you learn:
 
 ├── StudentManager.java
 
-├── Main.java
+└──  Main.java
 
 
 
