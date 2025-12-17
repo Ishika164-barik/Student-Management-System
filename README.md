@@ -67,8 +67,11 @@ This project helps you learn:
 ## Project Structure
 
 ├── Student.java
+
 ├── StudentManager.java
+
 ├── Main.java
+
 └── README.md
 
 
